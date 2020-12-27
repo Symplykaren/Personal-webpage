@@ -1,0 +1,77 @@
+body{background: #F3EFE0; font-size: 15px; line-height: 1.64; }
+html, body { color: #434242; font-family: @import url('https://fonts.googleapis.com/css?family=Lato|Poppins'); }
+img {padding-top: 10px;}
+
+#profile {font-family: 'Sacramento', cursive; padding-top: 80px;}
+#bgimage {background-image: url('images/flo.png'); background-repeat: no-repeat;}
+
+h1, h2, h3, h4, h5, h6, strong, b {font-family: 'open sans', sans-serif !important; margin-bottom: 20px;}
+h1, h4 {font-weight: 700; margin-bottom: 10px;}
+h2, h3 {font-weight: 300; color: #22A39F;}
+h2 {font-size: 54px; text-align: center;}
+h3 {font-size: 28px;}
+hr {margin: 40px 0px; border-color: #727878; opacity: 0.2; filter: alpha(opacity=20);}
+ul.no-bullets {list-style-type: none; margin: 0px; padding: 0px;}
+
+.start {text-align: center; color: #434242;}
+.col-md-3{ text-align: center;}
+.text {color: #727878; text-align: center;}
+
+#experiences {padding-top: 90px;}
+#experiences .experience {margin-bottom: 20px;}
+#experiences .experience p > strong {display: block; padding-top: 8px; margin-bottom: 10px;}
+#experiences .experience .experience-period {display: block; margin-top: 6px;}
+#experiences .experiences .experience-period * {color: #22A39F;}
+
+#abilities{padding-top: 90px;}
+#abilities ul > li {min-height: 30px; padding: 0px 0px;}
+#abilities ul > li:hover {background: #F2F2F2;}
+#abilities ul > li .ability-title {display: inline-block; width: 70%;}
+#abilities ul > li .abilitie-score {float: right;}
+#abilities ul > li .ability-score .glyphicon {
+    color: #DFE0E0;
+    font-size: 14px;
+
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+#abilities ul > li .ability-score .glyphicon.filled {color: #22a39d;}
+#abilities ul > li:hover .ability-score .glyphicon {margin-left: 2px;}
+
+#contact {padding-top: 30px; padding-bottom: 100px;}
+
+.icon {display: inline-block; background: url('sm_icon_sprite.png') no-repeat; height: 32px; width: 32px;}
+.icon .icon-twitter {background-image: url('images/twitter.png');}
+.icon .icon-instagram {background-position: 0px -32px;}
+.icon .icon-email {background-position: 0px -64px;}
+
+p{
+    font-size: 16px;
+}
+.background-white{background-color: white; padding-top: 90px;}
+.background-white1{background-color: white;}
+.background-gray { background: #434242; }
+.container{}
+
+.me {
+    color: orange;
+}
+.margin {
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    letter-spacing: 5px;
+}
+.navbar-nav li a:hover{
+    color: #1abc9c !important;
+}
