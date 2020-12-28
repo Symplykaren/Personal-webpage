@@ -2,8 +2,9 @@ body{background: #F3EFE0; font-size: 15px; line-height: 1.64; }
 html, body { color: #434242; font-family: @import url('https://fonts.googleapis.com/css?family=Lato|Poppins'); }
 img {padding-top: 10px;}
 
-#profile {font-family: 'Sacramento', cursive; padding-top: 80px;}
+#profile {font-family: 'open sans', sans-serif; padding-top: 80px;}
 #bgimage {background-image: url('images/flo.png'); background-repeat: no-repeat;}
+#socials {padding-bottom: 50px;}
 
 h1, h2, h3, h4, h5, h6, strong, b {font-family: 'open sans', sans-serif !important; margin-bottom: 20px;}
 h1, h4 {font-weight: 700; margin-bottom: 10px;}
