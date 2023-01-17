@@ -3,7 +3,7 @@ html, body { color: #434242; font-family: @import url('https://fonts.googleapis.
 img {padding-top: 10px;}
 
 #profile {font-family: 'open sans', sans-serif; padding-top: 80px;}
-#bgimage {background-image: url('images/flo.png'); background-repeat: no-repeat;}
+/* #bgimage {background-image: url('images/flo.png'); background-repeat: no-repeat;} */
 #socials {padding-bottom: 50px;}
 
 h1, h2, h3, h4, h5, h6, strong, b {font-family: 'open sans', sans-serif !important; margin-bottom: 20px;}
